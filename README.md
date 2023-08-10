@@ -1,3 +1,3 @@
-# wf-test
+# workflow-testing
 
-adding README.md
+Adding workflow syncing master branch to develop branch
